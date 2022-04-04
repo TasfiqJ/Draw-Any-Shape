@@ -5,5 +5,9 @@ A user is promted with a few questions on how they want their shape drawn, using
 The radius, circumradius, area, perimeter, interior angle and exterior angle is then displayed.  
 
 
-https://user-images.githubusercontent.com/73043409/161624220-6209d070-28f0-4b15-89e5-a0038de16bf2.mov
+
+
+
+
+https://user-images.githubusercontent.com/73043409/161624769-edc49499-0822-471b-85f9-415cb0cc950e.mp4
 
